@@ -7,11 +7,11 @@
     tools:context=".MainActivity2">
 
     <EditText
-        android:id="@+id/editTextText"
+        android:id="@+id/Usuario"
         android:layout_width="353dp"
         android:layout_height="73dp"
         android:ems="10"
-        android:hint="usuario"
+        android:hint="usuario: Use primer nombre"
         android:inputType="text"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

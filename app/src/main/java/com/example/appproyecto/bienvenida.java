@@ -6,7 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-public class MainActivity3 extends AppCompatActivity {
+public class bienvenida extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -15,12 +15,12 @@ public class MainActivity3 extends AppCompatActivity {
     }
 
     public void añadir(View view) {
-        Intent i = new Intent(this, MainActivity4.class );
+        Intent i = new Intent(this, IngresoIncubadora.class );
         startActivity(i);
     }
 
     public void cerrar(View view) {
-        Intent i = new Intent(this, MainActivity.class );
+        Intent i = new Intent(this, Menu.class );
         startActivity(i);
     }
 

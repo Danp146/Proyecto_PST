@@ -6,7 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-public class MainActivity2 extends AppCompatActivity {
+public class InicioSes extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -15,7 +15,7 @@ public class MainActivity2 extends AppCompatActivity {
     }
 
     public void inicio(View view) {
-        Intent i = new Intent(this, MainActivity3.class );
+        Intent i = new Intent(this, bienvenida.class );
         startActivity(i);
     }
 }

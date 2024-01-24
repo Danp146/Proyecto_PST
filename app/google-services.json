@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "991169232491",
+    "firebase_url": "https://prueba-temperatura-3579d-default-rtdb.firebaseio.com",
+    "project_id": "prueba-temperatura-3579d",
+    "storage_bucket": "prueba-temperatura-3579d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991169232491:android:203df000046831a3a3bb2e",
+        "android_client_info": {
+          "package_name": "com.example.appproyecto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgbHVPeJY9a7plW7YGDyCSKFCwdjH84d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
